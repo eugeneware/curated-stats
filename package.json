@@ -1,0 +1,32 @@
+{
+  "name": "curated-stats",
+  "version": "1.0.0",
+  "description": "Pull back subscriber stats from curated.co",
+  "main": "index.js",
+  "scripts": {
+    "test": "node_modules/.bin/tape test/*.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/eugeneware/curated-stats"
+  },
+  "keywords": [
+    "curated",
+    "curated.co",
+    "api",
+    "statistics",
+    "stats"
+  ],
+  "author": "Eugene Ware <eugene@noblesamurai.com>",
+  "license": "BSD-3-Clause",
+  "bugs": {
+    "url": "https://github.com/eugeneware/curated-stats/issues"
+  },
+  "dependencies": {
+    "cheerio": "^0.22.0",
+    "request": "^2.78.0"
+  },
+  "devDependencies": {
+    "tape": "^4.4.0"
+  }
+}
