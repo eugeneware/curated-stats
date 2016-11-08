@@ -1,4 +1,7 @@
 language: node_js
 node_js:
-  - "4"
-  - "6"
+- '4'
+- '6'
+env:
+  global:
+    secure: 5DKchEdoLb5VOeAl+hEgJ2zNFVUKRjI5I7PUXJrnxxM1M2QvTbPKAvqy+VuNypPFt9UM3lCnY4Tb2A+at49CJ8VqJje0c5fiiXaGWBbr1QFI34H/gdHA/KjgVWsbs5LZNcdtQI1W6BAiDoqfsUfZDNYpyjIDZUq+DWi0Zcnbw/EHSOuD4y2hMiOar+wDYBdifiT+VTcLYb3H9qSyUEhO0lxBQRAeyVcS2cP7pC8Yz83EI/DpJW0ev5RR1avwFwdrfY8YcqJqHbjdvSt87Up/4kkQmO5EIhemdhhRvPsR0sDI0krCkp5WCLd2irvm0ltWWuytCqo9rny5Xp0TwRw6C4mhTQ2rMq23UQkyrvsEDQh2LsFLTkGotdBoTZfCq3jNDNQI7AQ5qIu0sS1NQ0qFZKqcq6MzWigiP/pDoyHXkun0RC89EjPxcVO1c2Ki7ZR26lhVenZ2Aj5Kn7l9iEEIIHiW3pCJtg/HoUdQytpQCZ1HVAqGu1AwljORK4bbxze3Ap+KTHg3Wawt68TRVb4nLiJanA1hDpkYtzini0qpt4g5IXvlRgD6VM1T8ydxq9gckaWjd/uNuLesaXKyZGabdsPmXcJPU+PrpGJ1k3449gtd/p8c/lcaRBEeOs29y+PT1BN1EtwjVVGQfKMrBdqwxKJHCL/Tpa7mY4ZeSSNxZng=
